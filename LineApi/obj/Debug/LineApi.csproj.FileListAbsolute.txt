@@ -259,3 +259,8 @@ F:\MyProgram\Git\LineBot_testGroup\2020-11-28-1132\LineApi\LineApi\obj\Debug\Lin
 F:\MyProgram\Git\LineBot_testGroup\2020-11-28-1132\LineApi\LineApi\obj\Debug\LineApi.csproj.CopyComplete
 F:\MyProgram\Git\LineBot_testGroup\2020-11-28-1132\LineApi\LineApi\obj\Debug\LineApi.dll
 F:\MyProgram\Git\LineBot_testGroup\2020-11-28-1132\LineApi\LineApi\obj\Debug\LineApi.pdb
+F:\MyProgram\Git\LineBot_testGroup\2020-11-28-1132\LineApi\LineApi\bin\Microsoft.Azure.KeyVault.Core.dll
+F:\MyProgram\Git\LineBot_testGroup\2020-11-28-1132\LineApi\LineApi\bin\Microsoft.WindowsAzure.Storage.dll
+F:\MyProgram\Git\LineBot_testGroup\2020-11-28-1132\LineApi\LineApi\bin\Microsoft.Azure.KeyVault.Core.xml
+F:\MyProgram\Git\LineBot_testGroup\2020-11-28-1132\LineApi\LineApi\bin\Microsoft.WindowsAzure.Storage.pdb
+F:\MyProgram\Git\LineBot_testGroup\2020-11-28-1132\LineApi\LineApi\bin\Microsoft.WindowsAzure.Storage.xml
