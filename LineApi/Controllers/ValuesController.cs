@@ -57,14 +57,14 @@ namespace LineApi.Controllers
                                                 "{2}\n" + 
                                                 "{3}"
                                                 , "!time", "現在時間"
-                                                , "!抽妹子"
+                                                , "!抽、!抽妹子"
                                                 , "!抽帥哥"
                                                 );
                         break;
                     case "!自我介紹":
                     case "!self":
                         Message = string.Format("{0}\n{1}", "我只是個只會抽妹子的沒用女僕......"
-                            , "有意建請找willy.chen抱怨");
+                            , "有意見請找willy.chen抱怨");
                         break;
                     case "!時間":
                     case "!time":
@@ -156,7 +156,7 @@ namespace LineApi.Controllers
                         string nezuco = "https://lineapistorage1128.blob.core.windows.net/pic/彌豆子.PNG";
                         isRock.LineBot.Utility.ReplyImageMessage(reqid, nezuco, nezuco, MyLineChannelAccessToken);
                         break;
-                    case "!addpic":
+                    case "!抽":
                     case "!抽妹子":
                         string[] picURLs = Method.picURLs();
                         if (picURLs.Count() > 0)
